@@ -8,6 +8,7 @@ Features:
   
 -Art Gallery:
   Visually appealing and user-friendly interface (developed with HTML and CSS).
+  
   Dynamic artwork display featuring images, titles, descriptions, and artist information.
 
 -Artist Profiles:
@@ -18,7 +19,10 @@ Features:
   
 -Technology Stack:
 
-Frontend: HTML, CSS
-Backend: PHP (consider a framework like Laravel for advanced features)
-Database: MySQL (or a preferred alternative)
-Server:Xampp
+  Frontend: HTML, CSS
+
+  Backend: PHP 
+
+  Database: MySQL
+
+  Server:Xampp
