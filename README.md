@@ -23,4 +23,4 @@ Backend: PHP (consider a framework like Laravel for advanced features)
 Database: MySQL (or a preferred alternative)
 Server:Xampp
 Installation and Setup:
-Clone this repository: git clone https://github.com/PrasukShah//OdysseyOfArt.git
+Clone this repository: git clone https://github.com/PrasukShah//OdysseyOfArt/index.html
